@@ -6,3 +6,9 @@ for i in list:
     suma+=i
 
 print(f"La suma de los elementos de la lista es: {suma}")
+
+
+multipliacion=1
+for i in list:
+    multipliacion*=i
+print(f"El valor de la multiplicación de los elementos de lista es: {multipliacion}")
