@@ -1,1 +1,1 @@
-Trabajo Git GitHub Curso Diseño y Desarrollo de Software - INFOTEP
+Trabajos Git GitHub - Curso Diseño y Desarrollo de Software - INFOTEP
